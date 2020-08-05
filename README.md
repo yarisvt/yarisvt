@@ -2,10 +2,6 @@
 * I'am a third year bio-informatics student
 * Currently doing my internship at the RadboudUMC
 
-### Connect with me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yarisvanthiel)
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yarisvanthiel@gmail.com)
-
 <br />
 
 ---
@@ -14,3 +10,6 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarisvt&layout=compact&theme=dark)](https://github.com/yarisvt/github-readme-stats)
 
+<br />
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yarisvanthiel)
