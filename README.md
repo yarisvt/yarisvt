@@ -1,6 +1,12 @@
-### Hi there, I am Yaris van Thiel [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Hi there, I am Yaris van Thiel 
 * I'am a third year bio-informatics student
 * Currently doing my internship at the RadboudUMC
+
+### Connect with me
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<br />
 
 ---
 [![Stats](https://github-readme-stats.vercel.app/api?username=yarisvt&show_icons=true&hide_border=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=yarisvt&show_icons=true&hide_border=true&theme=dark)
@@ -10,3 +16,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/yarisvanthiel
+[gmail]: yarisvanthiel@gmail.com
