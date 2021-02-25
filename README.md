@@ -1,6 +1,5 @@
 ### Hi there, I am Yaris van Thiel 
 * I'am a third year bio-informatics student
-* Currently doing my internship at the RadboudUMC
 * Find me on [LinkedIn](https://www.linkedin.com/in/yarisvanthiel)
 
 ---
