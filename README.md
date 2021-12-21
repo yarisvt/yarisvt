@@ -1,5 +1,5 @@
 ### Hi there, I am Yaris van Thiel 
-* I'am a third year bio-informatics student
+* I'am a fourth year bio-informatics student
 * Find me on [LinkedIn](https://www.linkedin.com/in/yarisvanthiel)
 
 ---
