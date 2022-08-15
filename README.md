@@ -1,5 +1,5 @@
 ### Hi there, I am Yaris van Thiel 
-* I am a fourth year bio-informatics student, currently doing my graduation internship at [HelixLabs](https://helixlabs.ai/), part of [Bio-Prodict](https://www.bio-prodict.com/)
+* I am currently working at [Open Circle Solutions](https://www.opencirclesolutions.nl/) as a Junior Consultant
 * Find me on [LinkedIn](https://www.linkedin.com/in/yarisvanthiel)
 
 ---
