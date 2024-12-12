@@ -1,5 +1,5 @@
 ### Hi there, I am Yaris van Thiel 
-* I am currently working at [Open Circle Solutions](https://www.opencirclesolutions.nl/) as a Junior Consultant
+* I am currently working at [Open Circle Solutions](https://www.opencirclesolutions.nl/) as a Consultant
 * Find me on [LinkedIn](https://www.linkedin.com/in/yarisvanthiel)
 
 ---
