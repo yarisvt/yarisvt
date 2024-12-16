@@ -7,3 +7,6 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarisvt&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/yarisvt/github-readme-stats)
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=yarisvt&theme=darkhub)](https://github.com/yarisvt)
